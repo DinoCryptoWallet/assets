@@ -1,0 +1,20 @@
+{
+    "name": "Dino Wallet",
+    "website": "https://bsc.dinoexchange.com/",
+    "description": "Dinoexchange is swap platform official by Dino Wallet Apps",
+    "socials": [{
+            "name": "Twitter",
+            "url": "https://twitter.com/dinowalletapp"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/dinowallet"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x7b440d73b1537806ac707b29edefc57e76f25fed",
+    "type": "BEP20",
+    "symbol": "DINO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7b440d73b1537806ac707b29edefc57e76f25fed"
+}
