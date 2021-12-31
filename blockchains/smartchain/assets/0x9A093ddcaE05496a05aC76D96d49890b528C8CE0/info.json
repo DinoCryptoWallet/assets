@@ -1,0 +1,20 @@
+{
+    "name": "Weboo Token",
+    "website": "https://swap.webooswap.com/",
+    "description": "Webooswap Is Swap With More Powerfull Tools",
+    "socials": [{
+            "name": "Twitter",
+            "url": "https://twitter.com/webooswap"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/Webooswap"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x9A093ddcaE05496a05aC76D96d49890b528C8CE0",
+    "type": "BEP20",
+    "symbol": "WEBOO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x9A093ddcaE05496a05aC76D96d49890b528C8CE0"
+}
