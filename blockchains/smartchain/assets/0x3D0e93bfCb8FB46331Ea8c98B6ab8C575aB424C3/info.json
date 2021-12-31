@@ -1,0 +1,11 @@
+{
+    "name": "Smash Cash",
+    "type": "BEP20",
+    "symbol": "SMASH",
+    "decimals": 18,
+    "website": "https://smashcash.io/",
+    "description": "Smash Cash ensures Transaction Anonymity and Privacy on 10 most popular Blockchains and support 15 Tokens by separating the on-chain link between destination and recipient addresses",
+    "explorer": "https://bscscan.com/token/0x3D0e93bfCb8FB46331Ea8c98B6ab8C575aB424C3",
+    "status": "active",
+    "id": "0x3D0e93bfCb8FB46331Ea8c98B6ab8C575aB424C3"
+}
