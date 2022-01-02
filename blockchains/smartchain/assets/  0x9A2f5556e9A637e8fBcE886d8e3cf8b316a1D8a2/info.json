@@ -1,0 +1,11 @@
+{
+    "name": "BIDR BEP20",
+    "type": "BEP20",
+    "symbol": "BIDR",
+    "decimals": 18,
+    "website": "https://tokocrypto.com",
+    "description": "BIDR Binance Smart Chain",
+    "explorer": "https://bscscan.com/token/0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2",
+    "status": "active",
+    "id": "0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2"
+}
