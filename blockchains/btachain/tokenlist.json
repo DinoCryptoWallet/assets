@@ -1,0 +1,27 @@
+{
+    "name": "Weboo Wallet: BTA Chain",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2021-06-17T12:17:25.447Z",
+    "tokens": [
+        {
+            "chainId": 56,
+            "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "type": "BEP20",
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "name": "Wrapped BNB",
+            "symbol": "WBNB",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+            "pairs": [
+                {
+                    "base": "c20000714_t0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153"
+                }
+            ]
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}

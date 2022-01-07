@@ -1,0 +1,11 @@
+{
+    "name": "BTA Chain",
+    "website": "https://btachain.comn",
+    "description": "BTA Chain",
+    "explorer": "https://btachain.com/",
+    "research": "",
+    "symbol": "BTA",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active"
+}
