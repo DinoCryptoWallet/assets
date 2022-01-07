@@ -1,0 +1,11 @@
+{
+    "name": "Long Asset",
+    "type": "BTA20",
+    "symbol": "LONG",
+    "decimals": 18,
+    "website": "https://longasset.io",
+    "description": "Long Asset Token ( LONG ) LONG Is a Defi NFT token powered by BTA in order to advance the Arts and FIRST Literature industry in the digital world.",
+    "explorer": "https://btachain.com/token/0x3330213fcA85C086fAE3CAE47Fb4d9016c82F4dD",
+    "status": "active",
+    "id": "0x3330213fcA85C086fAE3CAE47Fb4d9016c82F4dD"
+}
