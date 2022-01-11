@@ -1,0 +1,22 @@
+{
+    "name": "TigerTatto",
+    "website": "http://www.tigertattoo.tattoo/",
+    "description": "A world of tattoos Tattoo art contains new things. A new trend in 2022.NFT Defi staking, NFT market tattoo, NFT gamefi",
+    "research": "",
+    "explorer": "https://bscscan.com/token/0x3Fc5a08aaF839d41d771c1B28bd3423980bA5D2C",
+    "type": "BEP20",
+    "symbol": "TGT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x3Fc5a08aaF839d41d771c1B28bd3423980bA5D2C",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TigerTattooNo1?t=b_LSMbBWm-LqKeSXeTX5qg&s=09"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/tigertattoogb"
+        }
+    ]
+}
