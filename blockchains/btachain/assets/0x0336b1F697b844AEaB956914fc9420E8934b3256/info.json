@@ -1,0 +1,11 @@
+{
+    "name": "FLUTTERSWAP",
+    "type": "BTA20",
+    "symbol": "FSWAP",
+    "decimals": 18,
+    "website": "https://flutterswap.finance",
+    "description": "First decentralized exchange and the first decentralized market maker ( AMM DEX ) on the bta blockchain.",
+    "explorer": "https://btachain.com/token/0x0336b1F697b844AEaB956914fc9420E8934b3256",
+    "status": "active",
+    "id": "0x0336b1F697b844AEaB956914fc9420E8934b3256"
+}
