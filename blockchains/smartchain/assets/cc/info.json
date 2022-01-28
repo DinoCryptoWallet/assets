@@ -1,0 +1,22 @@
+{
+    "name": "VELOX",
+    "website": "https://cryptovelox.com/",
+    "description": "The largest cryptocurrency merchandise sales network.",
+    "research": "",
+    "explorer": "https://bscscan.com/token/0x11be9d518f03a4d309a1340fddab944ccc5b3b15",
+    "type": "BEP20",
+    "symbol": "VLX",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x11BE9D518F03a4d309a1340fddAb944CCC5B3b15",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/cryptovelox"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/cryptovelox"
+        }
+    ]
+}
