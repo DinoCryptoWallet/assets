@@ -1,0 +1,22 @@
+{
+    "name": "Weboo Farming PCs",
+    "website": "https://earn.webooswap.com/",
+    "description": "Sakura Farming Pair WEBOO-BNB by WebooSwap",
+    "research": "",
+    "explorer": "https://bscscan.com/token/0xda0c3c28cedb0da7d93739df992b9929ab37ef29",
+    "type": "BEP20",
+    "symbol": "WebooBNB-FP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xda0c3c28cEDB0dA7D93739df992B9929ab37ef29",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/webooswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Webooswap"
+        }
+    ]
+}
