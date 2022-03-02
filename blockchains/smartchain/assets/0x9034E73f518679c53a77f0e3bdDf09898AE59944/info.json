@@ -1,0 +1,22 @@
+{
+    "name": "Weboo Farming PCs",
+    "website": "https://earn.webooswap.com/",
+    "description": "Sakura Farming Pair WEBOO-ETH by WebooSwap",
+    "research": "",
+    "explorer": "https://bscscan.com/token/0x9034E73f518679c53a77f0e3bdDf09898AE59944",
+    "type": "BEP20",
+    "symbol": "ETHWeboo-FP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9034E73f518679c53a77f0e3bdDf09898AE59944",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/webooswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Webooswap"
+        }
+    ]
+}

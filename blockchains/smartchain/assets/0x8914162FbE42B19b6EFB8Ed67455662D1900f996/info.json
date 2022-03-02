@@ -1,0 +1,22 @@
+{
+    "name": "Weboo Farming PCs",
+    "website": "https://earn.webooswap.com/",
+    "description": "Sakura Farming Pair WEBOO-DOGE by WebooSwap",
+    "research": "",
+    "explorer": "https://bscscan.com/token/0x8914162FbE42B19b6EFB8Ed67455662D1900f996",
+    "type": "BEP20",
+    "symbol": "DOGEWeboo-FP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8914162FbE42B19b6EFB8Ed67455662D1900f996",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/webooswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Webooswap"
+        }
+    ]
+}
