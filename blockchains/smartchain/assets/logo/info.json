@@ -1,0 +1,22 @@
+{
+    "name": "Weboo Farming PCs",
+    "website": "https://earn.webooswap.com/",
+    "description": "Sakura Farming Pair WEBOO-BUSD by WebooSwap",
+    "research": "",
+    "explorer": "https://bscscan.com/token/0xA57393AD1552F59326449Eb43b9C86aA1787d6db",
+    "type": "BEP20",
+    "symbol": "BUSDWeboo-FP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA57393AD1552F59326449Eb43b9C86aA1787d6db",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/webooswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Webooswap"
+        }
+    ]
+}
